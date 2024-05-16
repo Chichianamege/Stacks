@@ -1,9 +1,6 @@
 
 // Name: Chidera Anamege
-// Class: CS 3305/ W01
-// Term: Spring 2024
-//	Instructor:  Carla McManus
-//	Assignment:  04-Part-1-Stacks
+
 
 import java.util.Scanner;
 
